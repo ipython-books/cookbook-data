@@ -23,3 +23,10 @@ This repository contains the example data of the [IPython Cookbook](http://ipyth
 * [Troll](https://github.com/ipython-books/cookbook-data/blob/master/troll.zip?raw=true)
 * [Weather](https://github.com/ipython-books/cookbook-data/blob/master/weather.zip?raw=true)
 
+## Installation instructions
+
+When you need to use a dataset for a recipe in the cookbook:
+
+1. Download the indicated dataset by clicking on the link above.
+2. Extract the downloaded `.zip` file in your current directory (the directory that contains your IPython notebook). Now there should be a new `data/` subfolder containing the dataset for the recipe.
+3. Execute the notebook as indicated in the recipe.
