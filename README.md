@@ -8,6 +8,7 @@ This repository contains the example data of the [IPython Cookbook](http://ipyth
 * [Africa](https://github.com/ipython-books/cookbook-data/blob/master/africa.zip?raw=true)
 * [Babies](https://github.com/ipython-books/cookbook-data/blob/master/babies.zip?raw=true)
 * [Beach](https://github.com/ipython-books/cookbook-data/blob/master/beach.zip?raw=true)
+* [Bikes](https://github.com/ipython-books/cookbook-data/blob/master/bikes.csv?raw=true)
 * [Child](https://github.com/ipython-books/cookbook-data/blob/master/child.zip?raw=true)
 * [Debian](https://github.com/ipython-books/cookbook-data/blob/master/debian.zip?raw=true)
 * [Family](https://github.com/ipython-books/cookbook-data/blob/master/family.zip?raw=true)
@@ -30,3 +31,5 @@ When you need to use a dataset for a recipe in the cookbook:
 1. Download the indicated dataset by clicking on the link above.
 2. Extract the downloaded `.zip` file in your current directory (the directory that contains your IPython notebook). Now there should be a new `data/` subfolder containing the dataset for the recipe.
 3. Execute the notebook as indicated in the recipe.
+
+*Note*: Dataset *Bikes* need not be downloaded as Recipe 2.2 fetches data directly from the Internet (see Issue #2).
