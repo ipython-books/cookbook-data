@@ -32,4 +32,4 @@ When you need to use a dataset for a recipe in the cookbook:
 2. Extract the downloaded `.zip` file in your current directory (the directory that contains your IPython notebook). Now there should be a new `data/` subfolder containing the dataset for the recipe.
 3. Execute the notebook as indicated in the recipe.
 
-*Note*: Dataset *Bikes* need not be downloaded as Recipe 2.2 fetches data directly from the Internet (see Issue #2).
+*Note*: Dataset *Bikes* need not be downloaded as Recipe 1.2 fetches data directly from the Internet (see [Issue #2](https://github.com/ipython-books/cookbook-data/issues/2)).
